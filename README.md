@@ -1,37 +1,14 @@
-# Youtube Clone Project
+# Videoify- Video Sharing Website
 
 
 ![](readMe.gif) 
 
 
 ## Description
-This project briefly depicts the Youtube Clone site using React.js, Node.js, MongoDB. <br/>
-The first part shows how to download a project clone from GitHub and render the site. <br/>
-The second part describes the features and functions of the site. <br/>
-<br/>
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
+This is a video sharing website where user can share their videos. This project is built with the help of MERN stack technologies.
 
-## Motivation
-In school I graduated in April 2020, I learned HTML, CSS, and JS in relation to web developement. <br/>
-However, in practice, I wanted to use a JS library for the UI, and I stumbled upon React.js, which is popular these days (created by Facebook). 
-Frequently enjoying Youtube, I have been curious about the algorithm applied to the function of updating and subscribing to videos.
-This motivated me to create a personal website by cloning some functions of the Youtube. 
-In the project, Node.js is used for the back-end, and React.js is used for the front-end.
 
-## Installation
-1. Download ffmpeg and set an environmental path: [How?](https://www.youtube.com/watch?v=qjtmgCb8NcE)
-2. Download the clone (it is a root directory)
-3. Open a terminal
-4. Go to the root dir
-5. Install Node Package Manager --- **npm install**
-6. Change the dir to the client --- **cd client**
-7. Install Node Package Manager --- **npm install**
-8. In the project, go to **server > config** dir
-9. Create '**dev.js**' file
-10. Put your MongoDB info
-11. Save it
-12. Open a terminal in the root dir
-13. Run Node Package Manager --- **npm run dev**
+
 
 
 ## Tech/Framework used
@@ -108,5 +85,4 @@ In the project, Node.js is used for the back-end, and React.js is used for the f
 - **Likes / Dislikes**: Users can select the Likes/Dislikes button for the video or comment they are watching 
  
 
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
  
