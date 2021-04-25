@@ -1,16 +1,3 @@
-# Videoify- Video Sharing Website
-
-
-![](readMe.gif) 
-
-
-## Description
-This is a video sharing website where user can share their videos. This project is built with the help of MERN stack technologies.
-
-
-
-
-
 ## Tech/Framework used
 **React.js**: A JavaScript library for building user interfaces
  - URL: https://reactjs.org/ <br/>
@@ -79,10 +66,8 @@ This is a video sharing website where user can share their videos. This project 
 - **Log In/Out**: The user's data can be read by logging in/out of the account
 - **Register**: Consisting of Name, Last Name, Email, Password, and Confirm. Registered user data is stored in the 'user' db
 - **Home**: Displays recommended videos
-- **Subscription**: Displays subsribed videos
+- **Subscription**: Displays subscribed videos
 - **Video Upload**: Once logged in, the user can upload videos stored in the local directory
 - **Comments**: Users can leave a comment in the video they are watching
 - **Likes / Dislikes**: Users can select the Likes/Dislikes button for the video or comment they are watching 
- 
-
  
